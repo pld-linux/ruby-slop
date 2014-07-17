@@ -6,7 +6,7 @@
 Summary:	Option gathering made easy
 Name:		ruby-%{pkgname}
 Version:	3.4.6
-Release:	1
+Release:	2
 License:	GPL v2+ or Ruby
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
